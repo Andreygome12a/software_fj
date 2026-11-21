@@ -56,3 +56,8 @@ a `main` mediante pull request revisado por un compañero.
 | Integrante 3 | `feature/servicios` | `servicios.py` |
 | Integrante 4 | `feature/reserva` | `reserva.py` |
 | Integrante 5 | `feature/simulacion-readme` | `main.py`, `README.md` |
+## Validación y revisión de errores (Fase 4)
+Se ejecutaron las pruebas del programa en `main.py` para comprobar el manejo de excepciones y la estabilidad del sistema ante datos inválidos (como correos o teléfonos incorrectos, tarifas negativas, duraciones fuera de rango, servicios no disponibles, dobles cancelaciones y descuentos inválidos). Los errores se controlaron sin detener la ejecución y quedaron registrados en `logs_software_fj.log`.
+
+- **Andrey Gómez:** Desarrollo y organización inicial del código del proyecto.
+- **Carlos Beltran:** Revisión de funcionamiento, validación de pruebas y manejo de errores, documentación del aporte en GitHub y preparación del informe final.
