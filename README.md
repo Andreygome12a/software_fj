@@ -53,6 +53,6 @@ a `main` mediante pull request revisado por un compañero.
 |---|---|---|
 | Integrante 1 | `feature/excepciones-logger` | `excepciones.py`, `logger.py` |
 | Integrante 2 | `feature/cliente` | `entidades.py`, `cliente.py` |
-| Integrante 3 | `feature/servicios` | `servicios.py` |
-| Integrante 4 | `feature/reserva` | `reserva.py` |
-| Integrante 5 | `feature/simulacion-readme` | `main.py`, `README.md` |
+| Integrante 1 | `feature/servicios` | `servicios.py` |
+| Integrante 2 | `feature/reserva` | `reserva.py` |
+| Integrante 1 | `feature/simulacion-readme` | `main.py`, `README.md` |
